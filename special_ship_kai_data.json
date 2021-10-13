@@ -1,0 +1,377 @@
+﻿{
+    "49": [
+        {
+            "chinese_name": "霞",
+            "ship_id": 49,
+            "new_after_ship_id": 253
+        },
+        {
+            "chinese_name": "霞改",
+            "ship_id": 253,
+            "new_after_ship_id": 464
+        },
+        {
+            "chinese_name": "霞改二",
+            "ship_id": 464,
+            "new_after_ship_id": 470
+        },
+        {
+            "chinese_name": "霞改二乙",
+            "ship_id": 470,
+            "new_after_ship_id": 0
+        }],
+    "70": [
+        {
+            "chinese_name": "最上",
+            "ship_id": 70,
+            "new_after_ship_id": 73
+        },
+        {
+             "chinese_name": "最上改",
+             "ship_id": 73,
+             "new_after_ship_id": 501
+        },
+        {
+            "chinese_name":  "最上改二",
+            "ship_id": 501,
+            "new_after_ship_id": 506
+        },
+        {
+            "chinese_name":  "最上改二特",
+            "ship_id": 506,
+            "new_after_ship_id": 0
+        }
+    ],
+    "83": [
+        {
+            "chinese_name": "赤城",
+            "ship_id": 83,
+            "new_after_ship_id": 277
+        },
+        {
+            "chinese_name": "赤城改",
+            "ship_id": 277,
+            "new_after_ship_id": 594
+        },
+        {
+            "chinese_name":  "赤城改二",
+            "ship_id": 594,
+            "new_after_ship_id": 599
+        },
+        {
+            "chinese_name": "赤城改二戊",
+            "ship_id": 599,
+            "new_after_ship_id": 0
+        }
+
+    ],
+    "84":
+    [
+        {
+            "chinese_name":"加贺",
+            "ship_id": 84,
+            "new_after_ship_id": 278
+        },
+        {
+            "chinese_name":"加贺改",
+            "ship_id": 278,
+            "new_after_ship_id": 698
+        },
+        {
+            "chinese_name": "加贺改二",
+            "ship_id": 698,
+            "new_after_ship_id": 610
+        },
+        {
+            "chinese_name": "加贺改二戊",
+            "ship_id": 610,
+            "new_after_ship_id": 646
+        },
+        {
+            "chinese_name": "加贺改二护",
+            "ship_id": 646,
+            "new_after_ship_id": 0
+        }
+    ],
+    "95":
+    [
+        {
+            "chinese_name": "朝潮",
+            "ship_id": 95,
+            "new_after_ship_id": 248
+        },
+        {
+            "chinese_name": "朝潮改",
+            "ship_id": 248,
+            "new_after_ship_id": 463
+        },
+        {
+            "chinese_name": "朝潮改二",
+            "ship_id": 463,
+            "new_after_ship_id": 468
+        },
+        {
+            "chinese_name": "朝潮改二丁",
+            "ship_id": 468,
+            "new_after_ship_id": 0
+        }
+    ],
+    "99":
+    [
+        {
+            "chinese_name":"球磨",
+            "ship_id": 99,
+            "new_after_ship_id":215
+        },
+        {
+            "chinese_name":"球磨改",
+            "ship_id": 215,
+            "new_after_ship_id": 652
+        },
+        {
+            "chinese_name": "球磨改二",
+            "ship_id": 652,
+            "new_after_ship_id": 657
+        },
+        {
+            "chinese_name": "球磨改二丁",
+            "ship_id": 657,
+            "new_after_ship_id": 0
+        }
+    ],
+    "115":
+    [
+        {
+            "chinese_name":"夕张",
+            "ship_id": 115,
+            "new_after_ship_id": 293
+        },
+        {
+            "chinese_name":"夕张改",
+            "ship_id": 293,
+            "new_after_ship_id": 622
+        },
+        {
+            "chinese_name": "夕张改二",
+            "ship_id": 622,
+            "new_after_ship_id": 623
+        },
+        {
+            "chinese_name": "夕张改二特",
+            "ship_id": 623,
+            "new_after_ship_id": 624
+        },
+        {
+            "chinese_name": "夕张改二丁",
+            "ship_id": 624,
+            "new_after_ship_id": 0
+        }
+    ],
+    "116":
+    [
+        {
+            "chinese_name": "瑞凤",
+            "ship_id": 116,
+            "new_after_ship_id": 117
+        },
+        {
+            "chinese_name": "瑞凤改",
+            "ship_id": 117,
+            "new_after_ship_id": 555
+        },
+        {
+            "chinese_name": "瑞凤改二",
+            "ship_id": 555,
+            "new_after_ship_id": 560
+        },
+        {
+            "chinese_name": "瑞凤改二乙",
+            "ship_id": 560,
+            "new_after_ship_id": 0
+        }
+    ],
+    "124":
+    [
+        {
+            "chinese_name": "铃谷",
+            "ship_id": 124,
+            "new_after_ship_id": 129
+        },
+        {
+            "chinese_name": "铃谷改",
+            "ship_id": 129,
+            "new_after_ship_id": 503
+        },
+        {
+            "chinese_name": "铃谷改二",
+            "ship_id": 503,
+            "new_after_ship_id": 508
+        },
+        {
+            "chinese_name": "铃谷航改二",
+            "ship_id": 508,
+            "new_after_ship_id": 0
+        }
+    ],
+    "125":
+    [
+        {
+            "chinese_name": "熊野",
+            "ship_id": 125,
+            "new_after_ship_id": 130
+        },
+        {
+            "chinese_name": "熊野改",
+            "ship_id": 130,
+            "new_after_ship_id": 504
+        },
+        {
+            "chinese_name": "熊野改二",
+            "ship_id": 504,
+            "new_after_ship_id": 509
+        },
+        {
+            "chinese_name": "熊野航改二",
+            "ship_id": 509,
+            "new_after_ship_id": 0
+        }
+    ],
+    "139":
+    [
+        {
+            "chinese_name": "矢矧",
+            "ship_id": 139,
+            "new_after_ship_id": 307
+        },
+        {
+            "chinese_name": "矢矧改",
+            "ship_id": 307,
+            "new_after_ship_id": 663
+        },
+        {
+            "chinese_name": "矢矧改二",
+            "ship_id": 663,
+            "new_after_ship_id": 668
+        },
+        {
+            "chinese_name": "矢矧改二乙",
+            "ship_id": 668,
+            "new_after_ship_id": 0
+        }
+    ],
+    "184":
+    [
+        {
+            "chinese_name": "大鲸",
+            "ship_id": 184,
+            "new_after_ship_id": 185
+        },
+        {
+            "chinese_name": "龙凤",
+            "ship_id": 185,
+            "new_after_ship_id": 318
+        },
+        {
+            "chinese_name": "龙凤改",
+            "ship_id": 318,
+            "new_after_ship_id": 883
+        },
+        {
+            "chinese_name": "龙凤改二戊",
+            "ship_id": 883,
+            "new_after_ship_id": 888
+        },
+        {
+            "chinese_name": "龙凤改二",
+            "ship_id": 888,
+            "new_after_ship_id": 0
+        }
+    ],
+    "433":
+    [
+        {
+            "chinese_name": "Saratoga",
+            "ship_id": 433,
+            "new_after_ship_id": 438
+        },
+        {
+            "chinese_name": "Saratoga改",
+            "ship_id": 438,
+            "new_after_ship_id": 545
+        },
+        {
+            "chinese_name": "SaratogaMk.II",
+            "ship_id": 545,
+            "new_after_ship_id": 550
+        },
+        {
+            "chinese_name": "SaratogaMk.II Mod.2",
+            "ship_id": 550,
+            "new_after_ship_id": 0
+        }
+    ],
+    "457":
+    [
+        {
+            "chinese_name": "山风",
+            "ship_id": 457,
+            "new_after_ship_id": 369
+        },
+        {
+            "chinese_name": "山风改",
+            "ship_id": 369,
+            "new_after_ship_id": 588
+        },
+        {
+            "chinese_name": "山风改二",
+            "ship_id": 588,
+            "new_after_ship_id": 667
+        },
+        {
+            "chinese_name": "山风改二丁",
+            "ship_id": 667,
+            "new_after_ship_id": 0
+        }
+    ],
+    "596":
+    [
+        {
+            "chinese_name": "Fletcher",
+            "ship_id": 596,
+            "new_after_ship_id": 692
+        },
+        {
+            "chinese_name": "Fletcher改",
+            "ship_id": 692,
+            "new_after_ship_id": 628
+        },
+        {
+            "chinese_name": "Fletcher改 Mod.2",
+            "ship_id": 628,
+            "new_after_ship_id": 629
+        },
+        {
+            "chinese_name": "FletcherMk.II",
+            "ship_id": 629,
+            "new_after_ship_id": 0
+        }
+    ],
+    "699":
+    [
+        {
+            "chinese_name": "宗谷特务舰",
+            "ship_id": 699,
+            "new_after_ship_id": 645
+        },
+        {
+            "chinese_name": "宗谷灯塔补给",
+            "ship_id": 645,
+            "new_after_ship_id": 650
+        },
+        {
+            "chinese_name": "宗谷南极观测",
+            "ship_id": 650,
+            "new_after_ship_id": 0
+        }
+    ]
+}
