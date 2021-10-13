@@ -1,0 +1,50 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+.nb-gradle-properties
+
+### Custom ###
+/backup/
+**/resources/
+*.properties
+*.yml
+*.xml
+**/dao/
+**/build/
+**/test/
+**/logs/
+**/log/
+*.log
+*.jar
+*.json
+*.bat
+*.bak
+*debug*
+*test*
+**/startup.bat
+**/RSA/
+**/webroot/
