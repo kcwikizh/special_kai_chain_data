@@ -373,5 +373,28 @@
             "ship_id": 650,
             "new_after_ship_id": 0
         }
+    ],
+    "479":
+    [
+        {
+            "chinese_name": "天雾",
+            "ship_id": 479,
+            "new_after_ship_id": 390
+        },
+        {
+            "chinese_name": "天雾改",
+            "ship_id": 390,
+            "new_after_ship_id": 903
+        },
+        {
+            "chinese_name": "天雾改二",
+            "ship_id": 903,
+            "new_after_ship_id": 908
+        },
+        {
+            "chinese_name": "天雾改二丁",
+            "ship_id": 908,
+            "new_after_ship_id": 0
+        }
     ]
 }
