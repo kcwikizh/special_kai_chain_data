@@ -1,4 +1,4 @@
-﻿{
+{
     "49": [
         {
             "chinese_name": "霞",
@@ -394,6 +394,29 @@
         {
             "chinese_name": "天雾改二丁",
             "ship_id": 908,
+            "new_after_ship_id": 0
+        }
+    ],
+    "131":
+    [
+        {
+            "chinese_name": "大和",
+            "ship_id": 131,
+            "new_after_ship_id": 136
+        },
+        {
+            "chinese_name": "大和改",
+            "ship_id": 136,
+            "new_after_ship_id": 911
+        },
+        {
+            "chinese_name": "大和改二",
+            "ship_id": 911,
+            "new_after_ship_id": 916
+        },
+        {
+            "chinese_name": "大和改二重",
+            "ship_id": 916,
             "new_after_ship_id": 0
         }
     ]
