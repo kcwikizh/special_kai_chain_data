@@ -419,5 +419,28 @@
             "ship_id": 916,
             "new_after_ship_id": 0
         }
+    ],
+    "89":
+    [
+        {
+            "chinese_name": "凤翔",
+            "ship_id": 89,
+            "new_after_ship_id": 285
+        },
+        {
+            "chinese_name": "凤翔改",
+            "ship_id": 285,
+            "new_after_ship_id": 894
+        },
+        {
+            "chinese_name": "凤翔改二",
+            "ship_id": 894,
+            "new_after_ship_id": 899
+        },
+        {
+            "chinese_name": "凤翔改二战",
+            "ship_id": 899,
+            "new_after_ship_id": 0
+        }
     ]
 }
